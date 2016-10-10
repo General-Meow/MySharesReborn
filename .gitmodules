@@ -1,6 +1,6 @@
-[submodule "mySharesGeneratorUk"]
-	path = mySharesGeneratorUk
-	url = https://github.com/General-Meow/mySharesGeneratorUk.git
 [submodule "mySharesCollector"]
 	path = mySharesCollector
 	url = git@github.com:General-Meow/mySharesCollector.git
+[submodule "mySharesGenerator"]
+        path = mySharesGenerator
+        url = git@github.com:General-Meow/mySharesGenerator.git
